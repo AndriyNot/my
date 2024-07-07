@@ -1,0 +1,738 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\admin\\source\\repos\\ExamProject\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{E0FCEEB8-AAD0-48D9-B8EB-6F05BC5D71E9}|ExamProject.API\\ExamProject.API.csproj|c:\\users\\admin\\source\\repos\\examproject\\examproject.api\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E0FCEEB8-AAD0-48D9-B8EB-6F05BC5D71E9}|ExamProject.API\\ExamProject.API.csproj|solutionrelative:examproject.api\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E0FCEEB8-AAD0-48D9-B8EB-6F05BC5D71E9}|ExamProject.API\\ExamProject.API.csproj|c:\\users\\admin\\source\\repos\\examproject\\examproject.api\\models\\dtos\\product.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E0FCEEB8-AAD0-48D9-B8EB-6F05BC5D71E9}|ExamProject.API\\ExamProject.API.csproj|solutionrelative:examproject.api\\models\\dtos\\product.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E0FCEEB8-AAD0-48D9-B8EB-6F05BC5D71E9}|ExamProject.API\\ExamProject.API.csproj|c:\\users\\admin\\source\\repos\\examproject\\examproject.api\\repositories\\interfaces\\iproductrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E0FCEEB8-AAD0-48D9-B8EB-6F05BC5D71E9}|ExamProject.API\\ExamProject.API.csproj|solutionrelative:examproject.api\\repositories\\interfaces\\iproductrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E0FCEEB8-AAD0-48D9-B8EB-6F05BC5D71E9}|ExamProject.API\\ExamProject.API.csproj|c:\\users\\admin\\source\\repos\\examproject\\examproject.api\\repositories\\productrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E0FCEEB8-AAD0-48D9-B8EB-6F05BC5D71E9}|ExamProject.API\\ExamProject.API.csproj|solutionrelative:examproject.api\\repositories\\productrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E0FCEEB8-AAD0-48D9-B8EB-6F05BC5D71E9}|ExamProject.API\\ExamProject.API.csproj|c:\\users\\admin\\source\\repos\\examproject\\examproject.api\\services\\productservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E0FCEEB8-AAD0-48D9-B8EB-6F05BC5D71E9}|ExamProject.API\\ExamProject.API.csproj|solutionrelative:examproject.api\\services\\productservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E0FCEEB8-AAD0-48D9-B8EB-6F05BC5D71E9}|ExamProject.API\\ExamProject.API.csproj|c:\\users\\admin\\source\\repos\\examproject\\examproject.api\\controllers\\productscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E0FCEEB8-AAD0-48D9-B8EB-6F05BC5D71E9}|ExamProject.API\\ExamProject.API.csproj|solutionrelative:examproject.api\\controllers\\productscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{29CA274F-9B90-4A7A-80BC-B097EFD0DC21}|\u042D\u043B\u0435\u043C\u0435\u043D\u0442\u044B \u0440\u0435\u0448\u0435\u043D\u0438\u044F{29CA274F-9B90-4A7A-80BC-B097EFD0DC21}|C:\\Users\\admin\\source\\repos\\ExamProject\\docker-compose.yml||{8B382828-6202-11D1-8870-0000F87579D2}",
+      "RelativeMoniker": "D:0:0:{29CA274F-9B90-4A7A-80BC-B097EFD0DC21}|\u042D\u043B\u0435\u043C\u0435\u043D\u0442\u044B \u0440\u0435\u0448\u0435\u043D\u0438\u044F{29CA274F-9B90-4A7A-80BC-B097EFD0DC21}|solutionrelative:docker-compose.yml||{8B382828-6202-11D1-8870-0000F87579D2}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E0FCEEB8-AAD0-48D9-B8EB-6F05BC5D71E9}|ExamProject.API\\ExamProject.API.csproj|c:\\users\\admin\\source\\repos\\examproject\\examproject.api\\services\\interfaces\\iproductservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E0FCEEB8-AAD0-48D9-B8EB-6F05BC5D71E9}|ExamProject.API\\ExamProject.API.csproj|solutionrelative:examproject.api\\services\\interfaces\\iproductservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E0FCEEB8-AAD0-48D9-B8EB-6F05BC5D71E9}|ExamProject.API\\ExamProject.API.csproj|c:\\users\\admin\\source\\repos\\examproject\\examproject.api\\services\\userservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E0FCEEB8-AAD0-48D9-B8EB-6F05BC5D71E9}|ExamProject.API\\ExamProject.API.csproj|solutionrelative:examproject.api\\services\\userservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E0FCEEB8-AAD0-48D9-B8EB-6F05BC5D71E9}|ExamProject.API\\ExamProject.API.csproj|c:\\users\\admin\\source\\repos\\examproject\\examproject.api\\controllers\\orderscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E0FCEEB8-AAD0-48D9-B8EB-6F05BC5D71E9}|ExamProject.API\\ExamProject.API.csproj|solutionrelative:examproject.api\\controllers\\orderscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E0FCEEB8-AAD0-48D9-B8EB-6F05BC5D71E9}|ExamProject.API\\ExamProject.API.csproj|c:\\users\\admin\\source\\repos\\examproject\\examproject.api\\controllers\\productdescriptionscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E0FCEEB8-AAD0-48D9-B8EB-6F05BC5D71E9}|ExamProject.API\\ExamProject.API.csproj|solutionrelative:examproject.api\\controllers\\productdescriptionscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E0FCEEB8-AAD0-48D9-B8EB-6F05BC5D71E9}|ExamProject.API\\ExamProject.API.csproj|c:\\users\\admin\\source\\repos\\examproject\\examproject.api\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{E0FCEEB8-AAD0-48D9-B8EB-6F05BC5D71E9}|ExamProject.API\\ExamProject.API.csproj|solutionrelative:examproject.api\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E0FCEEB8-AAD0-48D9-B8EB-6F05BC5D71E9}|ExamProject.API\\ExamProject.API.csproj|c:\\users\\admin\\source\\repos\\examproject\\examproject.api\\models\\dtos\\category.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E0FCEEB8-AAD0-48D9-B8EB-6F05BC5D71E9}|ExamProject.API\\ExamProject.API.csproj|solutionrelative:examproject.api\\models\\dtos\\category.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E0FCEEB8-AAD0-48D9-B8EB-6F05BC5D71E9}|ExamProject.API\\ExamProject.API.csproj|c:\\users\\admin\\source\\repos\\examproject\\examproject.api\\models\\response\\paginatedproductsresponse.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E0FCEEB8-AAD0-48D9-B8EB-6F05BC5D71E9}|ExamProject.API\\ExamProject.API.csproj|solutionrelative:examproject.api\\models\\response\\paginatedproductsresponse.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E0FCEEB8-AAD0-48D9-B8EB-6F05BC5D71E9}|ExamProject.API\\ExamProject.API.csproj|c:\\users\\admin\\source\\repos\\examproject\\examproject.api\\models\\requests\\paginationproductsrequest.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E0FCEEB8-AAD0-48D9-B8EB-6F05BC5D71E9}|ExamProject.API\\ExamProject.API.csproj|solutionrelative:examproject.api\\models\\requests\\paginationproductsrequest.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E0FCEEB8-AAD0-48D9-B8EB-6F05BC5D71E9}|ExamProject.API\\ExamProject.API.csproj|c:\\users\\admin\\source\\repos\\examproject\\examproject.api\\models\\dtos\\productdescription.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E0FCEEB8-AAD0-48D9-B8EB-6F05BC5D71E9}|ExamProject.API\\ExamProject.API.csproj|solutionrelative:examproject.api\\models\\dtos\\productdescription.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E0FCEEB8-AAD0-48D9-B8EB-6F05BC5D71E9}|ExamProject.API\\ExamProject.API.csproj|c:\\users\\admin\\source\\repos\\examproject\\examproject.api\\data\\appdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E0FCEEB8-AAD0-48D9-B8EB-6F05BC5D71E9}|ExamProject.API\\ExamProject.API.csproj|solutionrelative:examproject.api\\data\\appdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E0FCEEB8-AAD0-48D9-B8EB-6F05BC5D71E9}|ExamProject.API\\ExamProject.API.csproj|c:\\users\\admin\\source\\repos\\examproject\\examproject.api\\models\\dtos\\user.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E0FCEEB8-AAD0-48D9-B8EB-6F05BC5D71E9}|ExamProject.API\\ExamProject.API.csproj|solutionrelative:examproject.api\\models\\dtos\\user.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E0FCEEB8-AAD0-48D9-B8EB-6F05BC5D71E9}|ExamProject.API\\ExamProject.API.csproj|c:\\users\\admin\\source\\repos\\examproject\\examproject.api\\repositories\\productdescriptionrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E0FCEEB8-AAD0-48D9-B8EB-6F05BC5D71E9}|ExamProject.API\\ExamProject.API.csproj|solutionrelative:examproject.api\\repositories\\productdescriptionrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E0FCEEB8-AAD0-48D9-B8EB-6F05BC5D71E9}|ExamProject.API\\ExamProject.API.csproj|c:\\users\\admin\\source\\repos\\examproject\\examproject.api\\controllers\\orderdetailscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E0FCEEB8-AAD0-48D9-B8EB-6F05BC5D71E9}|ExamProject.API\\ExamProject.API.csproj|solutionrelative:examproject.api\\controllers\\orderdetailscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E0FCEEB8-AAD0-48D9-B8EB-6F05BC5D71E9}|ExamProject.API\\ExamProject.API.csproj|c:\\users\\admin\\source\\repos\\examproject\\examproject.api\\repositories\\userrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E0FCEEB8-AAD0-48D9-B8EB-6F05BC5D71E9}|ExamProject.API\\ExamProject.API.csproj|solutionrelative:examproject.api\\repositories\\userrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E0FCEEB8-AAD0-48D9-B8EB-6F05BC5D71E9}|ExamProject.API\\ExamProject.API.csproj|c:\\users\\admin\\source\\repos\\examproject\\examproject.api\\repositories\\orderrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E0FCEEB8-AAD0-48D9-B8EB-6F05BC5D71E9}|ExamProject.API\\ExamProject.API.csproj|solutionrelative:examproject.api\\repositories\\orderrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E0FCEEB8-AAD0-48D9-B8EB-6F05BC5D71E9}|ExamProject.API\\ExamProject.API.csproj|c:\\users\\admin\\source\\repos\\examproject\\examproject.api\\repositories\\orderdetailrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E0FCEEB8-AAD0-48D9-B8EB-6F05BC5D71E9}|ExamProject.API\\ExamProject.API.csproj|solutionrelative:examproject.api\\repositories\\orderdetailrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E0FCEEB8-AAD0-48D9-B8EB-6F05BC5D71E9}|ExamProject.API\\ExamProject.API.csproj|c:\\users\\admin\\source\\repos\\examproject\\examproject.api\\repositories\\categoryrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E0FCEEB8-AAD0-48D9-B8EB-6F05BC5D71E9}|ExamProject.API\\ExamProject.API.csproj|solutionrelative:examproject.api\\repositories\\categoryrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E0FCEEB8-AAD0-48D9-B8EB-6F05BC5D71E9}|ExamProject.API\\ExamProject.API.csproj|c:\\users\\admin\\source\\repos\\examproject\\examproject.api\\models\\dtos\\orderdetail.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E0FCEEB8-AAD0-48D9-B8EB-6F05BC5D71E9}|ExamProject.API\\ExamProject.API.csproj|solutionrelative:examproject.api\\models\\dtos\\orderdetail.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E0FCEEB8-AAD0-48D9-B8EB-6F05BC5D71E9}|ExamProject.API\\ExamProject.API.csproj|c:\\users\\admin\\source\\repos\\examproject\\examproject.api\\models\\dtos\\order.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E0FCEEB8-AAD0-48D9-B8EB-6F05BC5D71E9}|ExamProject.API\\ExamProject.API.csproj|solutionrelative:examproject.api\\models\\dtos\\order.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E0FCEEB8-AAD0-48D9-B8EB-6F05BC5D71E9}|ExamProject.API\\ExamProject.API.csproj|c:\\users\\admin\\source\\repos\\examproject\\examproject.api\\controllers\\userscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E0FCEEB8-AAD0-48D9-B8EB-6F05BC5D71E9}|ExamProject.API\\ExamProject.API.csproj|solutionrelative:examproject.api\\controllers\\userscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E0FCEEB8-AAD0-48D9-B8EB-6F05BC5D71E9}|ExamProject.API\\ExamProject.API.csproj|c:\\users\\admin\\source\\repos\\examproject\\examproject.api\\controllers\\categoriescontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E0FCEEB8-AAD0-48D9-B8EB-6F05BC5D71E9}|ExamProject.API\\ExamProject.API.csproj|solutionrelative:examproject.api\\controllers\\categoriescontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E0FCEEB8-AAD0-48D9-B8EB-6F05BC5D71E9}|ExamProject.API\\ExamProject.API.csproj|c:\\users\\admin\\source\\repos\\examproject\\examproject.api\\services\\productdescriptionservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E0FCEEB8-AAD0-48D9-B8EB-6F05BC5D71E9}|ExamProject.API\\ExamProject.API.csproj|solutionrelative:examproject.api\\services\\productdescriptionservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E0FCEEB8-AAD0-48D9-B8EB-6F05BC5D71E9}|ExamProject.API\\ExamProject.API.csproj|c:\\users\\admin\\source\\repos\\examproject\\examproject.api\\services\\interfaces\\iproductdescriptionservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E0FCEEB8-AAD0-48D9-B8EB-6F05BC5D71E9}|ExamProject.API\\ExamProject.API.csproj|solutionrelative:examproject.api\\services\\interfaces\\iproductdescriptionservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E0FCEEB8-AAD0-48D9-B8EB-6F05BC5D71E9}|ExamProject.API\\ExamProject.API.csproj|c:\\users\\admin\\source\\repos\\examproject\\examproject.api\\services\\orderdetailservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E0FCEEB8-AAD0-48D9-B8EB-6F05BC5D71E9}|ExamProject.API\\ExamProject.API.csproj|solutionrelative:examproject.api\\services\\orderdetailservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E0FCEEB8-AAD0-48D9-B8EB-6F05BC5D71E9}|ExamProject.API\\ExamProject.API.csproj|c:\\users\\admin\\source\\repos\\examproject\\examproject.api\\services\\interfaces\\iorderdetailservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E0FCEEB8-AAD0-48D9-B8EB-6F05BC5D71E9}|ExamProject.API\\ExamProject.API.csproj|solutionrelative:examproject.api\\services\\interfaces\\iorderdetailservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E0FCEEB8-AAD0-48D9-B8EB-6F05BC5D71E9}|ExamProject.API\\ExamProject.API.csproj|c:\\users\\admin\\source\\repos\\examproject\\examproject.api\\services\\orderservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E0FCEEB8-AAD0-48D9-B8EB-6F05BC5D71E9}|ExamProject.API\\ExamProject.API.csproj|solutionrelative:examproject.api\\services\\orderservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E0FCEEB8-AAD0-48D9-B8EB-6F05BC5D71E9}|ExamProject.API\\ExamProject.API.csproj|c:\\users\\admin\\source\\repos\\examproject\\examproject.api\\services\\interfaces\\iorderservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E0FCEEB8-AAD0-48D9-B8EB-6F05BC5D71E9}|ExamProject.API\\ExamProject.API.csproj|solutionrelative:examproject.api\\services\\interfaces\\iorderservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E0FCEEB8-AAD0-48D9-B8EB-6F05BC5D71E9}|ExamProject.API\\ExamProject.API.csproj|c:\\users\\admin\\source\\repos\\examproject\\examproject.api\\services\\interfaces\\iuserservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E0FCEEB8-AAD0-48D9-B8EB-6F05BC5D71E9}|ExamProject.API\\ExamProject.API.csproj|solutionrelative:examproject.api\\services\\interfaces\\iuserservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E0FCEEB8-AAD0-48D9-B8EB-6F05BC5D71E9}|ExamProject.API\\ExamProject.API.csproj|c:\\users\\admin\\source\\repos\\examproject\\examproject.api\\services\\categoryservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E0FCEEB8-AAD0-48D9-B8EB-6F05BC5D71E9}|ExamProject.API\\ExamProject.API.csproj|solutionrelative:examproject.api\\services\\categoryservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E0FCEEB8-AAD0-48D9-B8EB-6F05BC5D71E9}|ExamProject.API\\ExamProject.API.csproj|c:\\users\\admin\\source\\repos\\examproject\\examproject.api\\services\\interfaces\\icategoryservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E0FCEEB8-AAD0-48D9-B8EB-6F05BC5D71E9}|ExamProject.API\\ExamProject.API.csproj|solutionrelative:examproject.api\\services\\interfaces\\icategoryservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E0FCEEB8-AAD0-48D9-B8EB-6F05BC5D71E9}|ExamProject.API\\ExamProject.API.csproj|c:\\users\\admin\\source\\repos\\examproject\\examproject.api\\repositories\\interfaces\\iproductdescriptionrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E0FCEEB8-AAD0-48D9-B8EB-6F05BC5D71E9}|ExamProject.API\\ExamProject.API.csproj|solutionrelative:examproject.api\\repositories\\interfaces\\iproductdescriptionrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E0FCEEB8-AAD0-48D9-B8EB-6F05BC5D71E9}|ExamProject.API\\ExamProject.API.csproj|c:\\users\\admin\\source\\repos\\examproject\\examproject.api\\repositories\\interfaces\\iorderdetailrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E0FCEEB8-AAD0-48D9-B8EB-6F05BC5D71E9}|ExamProject.API\\ExamProject.API.csproj|solutionrelative:examproject.api\\repositories\\interfaces\\iorderdetailrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E0FCEEB8-AAD0-48D9-B8EB-6F05BC5D71E9}|ExamProject.API\\ExamProject.API.csproj|c:\\users\\admin\\source\\repos\\examproject\\examproject.api\\repositories\\interfaces\\iorderrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E0FCEEB8-AAD0-48D9-B8EB-6F05BC5D71E9}|ExamProject.API\\ExamProject.API.csproj|solutionrelative:examproject.api\\repositories\\interfaces\\iorderrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E0FCEEB8-AAD0-48D9-B8EB-6F05BC5D71E9}|ExamProject.API\\ExamProject.API.csproj|c:\\users\\admin\\source\\repos\\examproject\\examproject.api\\repositories\\interfaces\\iuserrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E0FCEEB8-AAD0-48D9-B8EB-6F05BC5D71E9}|ExamProject.API\\ExamProject.API.csproj|solutionrelative:examproject.api\\repositories\\interfaces\\iuserrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E0FCEEB8-AAD0-48D9-B8EB-6F05BC5D71E9}|ExamProject.API\\ExamProject.API.csproj|c:\\users\\admin\\source\\repos\\examproject\\examproject.api\\repositories\\interfaces\\icategoryrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E0FCEEB8-AAD0-48D9-B8EB-6F05BC5D71E9}|ExamProject.API\\ExamProject.API.csproj|solutionrelative:examproject.api\\repositories\\interfaces\\icategoryrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 6,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{3ae79031-e1bc-11d0-8f78-00a0c9110057}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "OrdersController.cs",
+              "DocumentMoniker": "C:\\Users\\admin\\source\\repos\\ExamProject\\ExamProject.API\\Controllers\\OrdersController.cs",
+              "RelativeDocumentMoniker": "ExamProject.API\\Controllers\\OrdersController.cs",
+              "ToolTip": "C:\\Users\\admin\\source\\repos\\ExamProject\\ExamProject.API\\Controllers\\OrdersController.cs",
+              "RelativeToolTip": "ExamProject.API\\Controllers\\OrdersController.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAoAAAAeAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-15T13:37:58.038Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "UserService.cs",
+              "DocumentMoniker": "C:\\Users\\admin\\source\\repos\\ExamProject\\ExamProject.API\\Services\\UserService.cs",
+              "RelativeDocumentMoniker": "ExamProject.API\\Services\\UserService.cs",
+              "ToolTip": "C:\\Users\\admin\\source\\repos\\ExamProject\\ExamProject.API\\Services\\UserService.cs",
+              "RelativeToolTip": "ExamProject.API\\Services\\UserService.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAACcAAAAFAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-15T14:07:11.727Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "IProductService.cs",
+              "DocumentMoniker": "C:\\Users\\admin\\source\\repos\\ExamProject\\ExamProject.API\\Services\\Interfaces\\IProductService.cs",
+              "RelativeDocumentMoniker": "ExamProject.API\\Services\\Interfaces\\IProductService.cs",
+              "ToolTip": "C:\\Users\\admin\\source\\repos\\ExamProject\\ExamProject.API\\Services\\Interfaces\\IProductService.cs",
+              "RelativeToolTip": "ExamProject.API\\Services\\Interfaces\\IProductService.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAqwAgAAAB7AAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-15T13:57:44.405Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Product.cs",
+              "DocumentMoniker": "C:\\Users\\admin\\source\\repos\\ExamProject\\ExamProject.API\\Models\\Dtos\\Product.cs",
+              "RelativeDocumentMoniker": "ExamProject.API\\Models\\Dtos\\Product.cs",
+              "ToolTip": "C:\\Users\\admin\\source\\repos\\ExamProject\\ExamProject.API\\Models\\Dtos\\Product.cs",
+              "RelativeToolTip": "ExamProject.API\\Models\\Dtos\\Product.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAsAAAAFAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-15T12:43:53.279Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "docker-compose.yml",
+              "DocumentMoniker": "C:\\Users\\admin\\source\\repos\\ExamProject\\docker-compose.yml",
+              "RelativeDocumentMoniker": "docker-compose.yml",
+              "ToolTip": "C:\\Users\\admin\\source\\repos\\ExamProject\\docker-compose.yml",
+              "RelativeToolTip": "docker-compose.yml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAgAAAAZAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003775|",
+              "WhenOpened": "2024-06-15T15:32:34.791Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\admin\\source\\repos\\ExamProject\\ExamProject.API\\Program.cs",
+              "RelativeDocumentMoniker": "ExamProject.API\\Program.cs",
+              "ToolTip": "C:\\Users\\admin\\source\\repos\\ExamProject\\ExamProject.API\\Program.cs",
+              "RelativeToolTip": "ExamProject.API\\Program.cs",
+              "ViewState": "AQIAAAMAAAAAAAAAAAAAAA4AAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-15T14:44:39.474Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "IProductRepository.cs",
+              "DocumentMoniker": "C:\\Users\\admin\\source\\repos\\ExamProject\\ExamProject.API\\Repositories\\Interfaces\\IProductRepository.cs",
+              "RelativeDocumentMoniker": "ExamProject.API\\Repositories\\Interfaces\\IProductRepository.cs",
+              "ToolTip": "C:\\Users\\admin\\source\\repos\\ExamProject\\ExamProject.API\\Repositories\\Interfaces\\IProductRepository.cs",
+              "RelativeToolTip": "ExamProject.API\\Repositories\\Interfaces\\IProductRepository.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAqwAgAAAB7AAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-15T13:12:26.232Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "ProductRepository.cs",
+              "DocumentMoniker": "C:\\Users\\admin\\source\\repos\\ExamProject\\ExamProject.API\\Repositories\\ProductRepository.cs",
+              "RelativeDocumentMoniker": "ExamProject.API\\Repositories\\ProductRepository.cs",
+              "ToolTip": "C:\\Users\\admin\\source\\repos\\ExamProject\\ExamProject.API\\Repositories\\ProductRepository.cs",
+              "RelativeToolTip": "ExamProject.API\\Repositories\\ProductRepository.cs",
+              "ViewState": "AQIAAAEAAAAAAAAAAAA0wBIAAACIAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-15T13:13:01.916Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "ProductsController.cs",
+              "DocumentMoniker": "C:\\Users\\admin\\source\\repos\\ExamProject\\ExamProject.API\\Controllers\\ProductsController.cs",
+              "RelativeDocumentMoniker": "ExamProject.API\\Controllers\\ProductsController.cs",
+              "ToolTip": "C:\\Users\\admin\\source\\repos\\ExamProject\\ExamProject.API\\Controllers\\ProductsController.cs",
+              "RelativeToolTip": "ExamProject.API\\Controllers\\ProductsController.cs",
+              "ViewState": "AQIAABUAAAAAAAAAAAAiwHQAAAAJAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-15T13:07:37.609Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "ProductService.cs",
+              "DocumentMoniker": "C:\\Users\\admin\\source\\repos\\ExamProject\\ExamProject.API\\Services\\ProductService.cs",
+              "RelativeDocumentMoniker": "ExamProject.API\\Services\\ProductService.cs",
+              "ToolTip": "C:\\Users\\admin\\source\\repos\\ExamProject\\ExamProject.API\\Services\\ProductService.cs",
+              "RelativeToolTip": "ExamProject.API\\Services\\ProductService.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAABSwBUAAAAJAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-15T13:58:07.652Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "ProductDescriptionsController.cs",
+              "DocumentMoniker": "C:\\Users\\admin\\source\\repos\\ExamProject\\ExamProject.API\\Controllers\\ProductDescriptionsController.cs",
+              "RelativeDocumentMoniker": "ExamProject.API\\Controllers\\ProductDescriptionsController.cs",
+              "ToolTip": "C:\\Users\\admin\\source\\repos\\ExamProject\\ExamProject.API\\Controllers\\ProductDescriptionsController.cs",
+              "RelativeToolTip": "ExamProject.API\\Controllers\\ProductDescriptionsController.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAoAAAAZAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-15T13:50:12.492Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "appsettings.json",
+              "DocumentMoniker": "C:\\Users\\admin\\source\\repos\\ExamProject\\ExamProject.API\\appsettings.json",
+              "RelativeDocumentMoniker": "ExamProject.API\\appsettings.json",
+              "ToolTip": "C:\\Users\\admin\\source\\repos\\ExamProject\\ExamProject.API\\appsettings.json",
+              "RelativeToolTip": "ExamProject.API\\appsettings.json",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAIAAABQAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2024-06-15T14:40:58.546Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 15,
+              "Title": "ProductDescription.cs",
+              "DocumentMoniker": "C:\\Users\\admin\\source\\repos\\ExamProject\\ExamProject.API\\Models\\Dtos\\ProductDescription.cs",
+              "RelativeDocumentMoniker": "ExamProject.API\\Models\\Dtos\\ProductDescription.cs",
+              "ToolTip": "C:\\Users\\admin\\source\\repos\\ExamProject\\ExamProject.API\\Models\\Dtos\\ProductDescription.cs",
+              "RelativeToolTip": "ExamProject.API\\Models\\Dtos\\ProductDescription.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAQAAAASAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-15T12:42:44.24Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "Category.cs",
+              "DocumentMoniker": "C:\\Users\\admin\\source\\repos\\ExamProject\\ExamProject.API\\Models\\Dtos\\Category.cs",
+              "RelativeDocumentMoniker": "ExamProject.API\\Models\\Dtos\\Category.cs",
+              "ToolTip": "C:\\Users\\admin\\source\\repos\\ExamProject\\ExamProject.API\\Models\\Dtos\\Category.cs",
+              "RelativeToolTip": "ExamProject.API\\Models\\Dtos\\Category.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAqwAcAAAAFAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-15T12:40:17.68Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 14,
+              "Title": "PaginationProductsRequest.cs",
+              "DocumentMoniker": "C:\\Users\\admin\\source\\repos\\ExamProject\\ExamProject.API\\Models\\Requests\\PaginationProductsRequest.cs",
+              "RelativeDocumentMoniker": "ExamProject.API\\Models\\Requests\\PaginationProductsRequest.cs",
+              "ToolTip": "C:\\Users\\admin\\source\\repos\\ExamProject\\ExamProject.API\\Models\\Requests\\PaginationProductsRequest.cs",
+              "RelativeToolTip": "ExamProject.API\\Models\\Requests\\PaginationProductsRequest.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAADwvwoAAAAFAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-16T12:59:59.621Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "PaginatedProductsResponse.cs",
+              "DocumentMoniker": "C:\\Users\\admin\\source\\repos\\ExamProject\\ExamProject.API\\Models\\Response\\PaginatedProductsResponse.cs",
+              "RelativeDocumentMoniker": "ExamProject.API\\Models\\Response\\PaginatedProductsResponse.cs",
+              "ToolTip": "C:\\Users\\admin\\source\\repos\\ExamProject\\ExamProject.API\\Models\\Response\\PaginatedProductsResponse.cs",
+              "RelativeToolTip": "ExamProject.API\\Models\\Response\\PaginatedProductsResponse.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAsAAAAFAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-16T13:02:25.646Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 22,
+              "Title": "OrderDetailRepository.cs",
+              "DocumentMoniker": "C:\\Users\\admin\\source\\repos\\ExamProject\\ExamProject.API\\Repositories\\OrderDetailRepository.cs",
+              "RelativeDocumentMoniker": "ExamProject.API\\Repositories\\OrderDetailRepository.cs",
+              "ToolTip": "C:\\Users\\admin\\source\\repos\\ExamProject\\ExamProject.API\\Repositories\\OrderDetailRepository.cs",
+              "RelativeToolTip": "ExamProject.API\\Repositories\\OrderDetailRepository.cs",
+              "ViewState": "AQIAABEAAAAAAAAAAAAawBkAAAAMAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-15T13:39:17.379Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 21,
+              "Title": "OrderRepository.cs",
+              "DocumentMoniker": "C:\\Users\\admin\\source\\repos\\ExamProject\\ExamProject.API\\Repositories\\OrderRepository.cs",
+              "RelativeDocumentMoniker": "ExamProject.API\\Repositories\\OrderRepository.cs",
+              "ToolTip": "C:\\Users\\admin\\source\\repos\\ExamProject\\ExamProject.API\\Repositories\\OrderRepository.cs",
+              "RelativeToolTip": "ExamProject.API\\Repositories\\OrderRepository.cs",
+              "ViewState": "AQIAABQAAAAAAAAAAAAQwBkAAAANAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-15T13:37:21.277Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 17,
+              "Title": "User.cs",
+              "DocumentMoniker": "C:\\Users\\admin\\source\\repos\\ExamProject\\ExamProject.API\\Models\\Dtos\\User.cs",
+              "RelativeDocumentMoniker": "ExamProject.API\\Models\\Dtos\\User.cs",
+              "ToolTip": "C:\\Users\\admin\\source\\repos\\ExamProject\\ExamProject.API\\Models\\Dtos\\User.cs",
+              "RelativeToolTip": "ExamProject.API\\Models\\Dtos\\User.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAqwAQAAAASAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-15T12:40:43.412Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 16,
+              "Title": "AppDbContext.cs",
+              "DocumentMoniker": "C:\\Users\\admin\\source\\repos\\ExamProject\\ExamProject.API\\Data\\AppDbContext.cs",
+              "RelativeDocumentMoniker": "ExamProject.API\\Data\\AppDbContext.cs",
+              "ToolTip": "C:\\Users\\admin\\source\\repos\\ExamProject\\ExamProject.API\\Data\\AppDbContext.cs",
+              "RelativeToolTip": "ExamProject.API\\Data\\AppDbContext.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAC8AAAAFAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-15T12:48:08.225Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 19,
+              "Title": "OrderDetailsController.cs",
+              "DocumentMoniker": "C:\\Users\\admin\\source\\repos\\ExamProject\\ExamProject.API\\Controllers\\OrderDetailsController.cs",
+              "RelativeDocumentMoniker": "ExamProject.API\\Controllers\\OrderDetailsController.cs",
+              "ToolTip": "C:\\Users\\admin\\source\\repos\\ExamProject\\ExamProject.API\\Controllers\\OrderDetailsController.cs",
+              "RelativeToolTip": "ExamProject.API\\Controllers\\OrderDetailsController.cs",
+              "ViewState": "AQIAAAEAAAAAAAAAAIA1wAwAAAAPAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-15T13:44:30.69Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 20,
+              "Title": "UserRepository.cs",
+              "DocumentMoniker": "C:\\Users\\admin\\source\\repos\\ExamProject\\ExamProject.API\\Repositories\\UserRepository.cs",
+              "RelativeDocumentMoniker": "ExamProject.API\\Repositories\\UserRepository.cs",
+              "ToolTip": "C:\\Users\\admin\\source\\repos\\ExamProject\\ExamProject.API\\Repositories\\UserRepository.cs",
+              "RelativeToolTip": "ExamProject.API\\Repositories\\UserRepository.cs",
+              "ViewState": "AQIAAAwAAAAAAAAAAAAhwB8AAAAYAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-15T13:25:57.453Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 18,
+              "Title": "ProductDescriptionRepository.cs",
+              "DocumentMoniker": "C:\\Users\\admin\\source\\repos\\ExamProject\\ExamProject.API\\Repositories\\ProductDescriptionRepository.cs",
+              "RelativeDocumentMoniker": "ExamProject.API\\Repositories\\ProductDescriptionRepository.cs",
+              "ToolTip": "C:\\Users\\admin\\source\\repos\\ExamProject\\ExamProject.API\\Repositories\\ProductDescriptionRepository.cs",
+              "RelativeToolTip": "ExamProject.API\\Repositories\\ProductDescriptionRepository.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABkAAAAMAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-15T13:45:53.268Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 23,
+              "Title": "CategoryRepository.cs",
+              "DocumentMoniker": "C:\\Users\\admin\\source\\repos\\ExamProject\\ExamProject.API\\Repositories\\CategoryRepository.cs",
+              "RelativeDocumentMoniker": "ExamProject.API\\Repositories\\CategoryRepository.cs",
+              "ToolTip": "C:\\Users\\admin\\source\\repos\\ExamProject\\ExamProject.API\\Repositories\\CategoryRepository.cs",
+              "RelativeToolTip": "ExamProject.API\\Repositories\\CategoryRepository.cs",
+              "ViewState": "AQIAAA0AAAAAAAAAAAAxwB0AAAAcAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-15T13:17:32.086Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 24,
+              "Title": "OrderDetail.cs",
+              "DocumentMoniker": "C:\\Users\\admin\\source\\repos\\ExamProject\\ExamProject.API\\Models\\Dtos\\OrderDetail.cs",
+              "RelativeDocumentMoniker": "ExamProject.API\\Models\\Dtos\\OrderDetail.cs",
+              "ToolTip": "C:\\Users\\admin\\source\\repos\\ExamProject\\ExamProject.API\\Models\\Dtos\\OrderDetail.cs",
+              "RelativeToolTip": "ExamProject.API\\Models\\Dtos\\OrderDetail.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAkAAAASAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-15T12:41:33.64Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 25,
+              "Title": "Order.cs",
+              "DocumentMoniker": "C:\\Users\\admin\\source\\repos\\ExamProject\\ExamProject.API\\Models\\Dtos\\Order.cs",
+              "RelativeDocumentMoniker": "ExamProject.API\\Models\\Dtos\\Order.cs",
+              "ToolTip": "C:\\Users\\admin\\source\\repos\\ExamProject\\ExamProject.API\\Models\\Dtos\\Order.cs",
+              "RelativeToolTip": "ExamProject.API\\Models\\Dtos\\Order.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAqwAQAAAASAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-15T12:41:07.913Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 26,
+              "Title": "UsersController.cs",
+              "DocumentMoniker": "C:\\Users\\admin\\source\\repos\\ExamProject\\ExamProject.API\\Controllers\\UsersController.cs",
+              "RelativeDocumentMoniker": "ExamProject.API\\Controllers\\UsersController.cs",
+              "ToolTip": "C:\\Users\\admin\\source\\repos\\ExamProject\\ExamProject.API\\Controllers\\UsersController.cs",
+              "RelativeToolTip": "ExamProject.API\\Controllers\\UsersController.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAoAAAAcAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-15T13:36:11.8Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 27,
+              "Title": "CategoriesController.cs",
+              "DocumentMoniker": "C:\\Users\\admin\\source\\repos\\ExamProject\\ExamProject.API\\Controllers\\CategoriesController.cs",
+              "RelativeDocumentMoniker": "ExamProject.API\\Controllers\\CategoriesController.cs",
+              "ToolTip": "C:\\Users\\admin\\source\\repos\\ExamProject\\ExamProject.API\\Controllers\\CategoriesController.cs",
+              "RelativeToolTip": "ExamProject.API\\Controllers\\CategoriesController.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAoAAAAgAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-15T13:23:53.237Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 32,
+              "Title": "OrderService.cs",
+              "DocumentMoniker": "C:\\Users\\admin\\source\\repos\\ExamProject\\ExamProject.API\\Services\\OrderService.cs",
+              "RelativeDocumentMoniker": "ExamProject.API\\Services\\OrderService.cs",
+              "ToolTip": "C:\\Users\\admin\\source\\repos\\ExamProject\\ExamProject.API\\Services\\OrderService.cs",
+              "RelativeToolTip": "ExamProject.API\\Services\\OrderService.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAACcAAAAFAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-15T14:09:25.617Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 31,
+              "Title": "IOrderDetailService.cs",
+              "DocumentMoniker": "C:\\Users\\admin\\source\\repos\\ExamProject\\ExamProject.API\\Services\\Interfaces\\IOrderDetailService.cs",
+              "RelativeDocumentMoniker": "ExamProject.API\\Services\\Interfaces\\IOrderDetailService.cs",
+              "ToolTip": "C:\\Users\\admin\\source\\repos\\ExamProject\\ExamProject.API\\Services\\Interfaces\\IOrderDetailService.cs",
+              "RelativeToolTip": "ExamProject.API\\Services\\Interfaces\\IOrderDetailService.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAADwvwoAAAAsAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-15T14:10:08.406Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 30,
+              "Title": "OrderDetailService.cs",
+              "DocumentMoniker": "C:\\Users\\admin\\source\\repos\\ExamProject\\ExamProject.API\\Services\\OrderDetailService.cs",
+              "RelativeDocumentMoniker": "ExamProject.API\\Services\\OrderDetailService.cs",
+              "ToolTip": "C:\\Users\\admin\\source\\repos\\ExamProject\\ExamProject.API\\Services\\OrderDetailService.cs",
+              "RelativeToolTip": "ExamProject.API\\Services\\OrderDetailService.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAACcAAAAFAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-15T14:11:15.062Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 29,
+              "Title": "IProductDescriptionService.cs",
+              "DocumentMoniker": "C:\\Users\\admin\\source\\repos\\ExamProject\\ExamProject.API\\Services\\Interfaces\\IProductDescriptionService.cs",
+              "RelativeDocumentMoniker": "ExamProject.API\\Services\\Interfaces\\IProductDescriptionService.cs",
+              "ToolTip": "C:\\Users\\admin\\source\\repos\\ExamProject\\ExamProject.API\\Services\\Interfaces\\IProductDescriptionService.cs",
+              "RelativeToolTip": "ExamProject.API\\Services\\Interfaces\\IProductDescriptionService.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAADwvwoAAAAzAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-15T14:13:29.19Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 28,
+              "Title": "ProductDescriptionService.cs",
+              "DocumentMoniker": "C:\\Users\\admin\\source\\repos\\ExamProject\\ExamProject.API\\Services\\ProductDescriptionService.cs",
+              "RelativeDocumentMoniker": "ExamProject.API\\Services\\ProductDescriptionService.cs",
+              "ToolTip": "C:\\Users\\admin\\source\\repos\\ExamProject\\ExamProject.API\\Services\\ProductDescriptionService.cs",
+              "RelativeToolTip": "ExamProject.API\\Services\\ProductDescriptionService.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAABSwCcAAAAFAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-15T14:18:06.065Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 33,
+              "Title": "IOrderService.cs",
+              "DocumentMoniker": "C:\\Users\\admin\\source\\repos\\ExamProject\\ExamProject.API\\Services\\Interfaces\\IOrderService.cs",
+              "RelativeDocumentMoniker": "ExamProject.API\\Services\\Interfaces\\IOrderService.cs",
+              "ToolTip": "C:\\Users\\admin\\source\\repos\\ExamProject\\ExamProject.API\\Services\\Interfaces\\IOrderService.cs",
+              "RelativeToolTip": "ExamProject.API\\Services\\Interfaces\\IOrderService.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAADwvwoAAAAmAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-15T14:09:01.395Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 34,
+              "Title": "IUserService.cs",
+              "DocumentMoniker": "C:\\Users\\admin\\source\\repos\\ExamProject\\ExamProject.API\\Services\\Interfaces\\IUserService.cs",
+              "RelativeDocumentMoniker": "ExamProject.API\\Services\\Interfaces\\IUserService.cs",
+              "ToolTip": "C:\\Users\\admin\\source\\repos\\ExamProject\\ExamProject.API\\Services\\Interfaces\\IUserService.cs",
+              "RelativeToolTip": "ExamProject.API\\Services\\Interfaces\\IUserService.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAADwvwoAAAAlAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-15T14:04:25.45Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 35,
+              "Title": "CategoryService.cs",
+              "DocumentMoniker": "C:\\Users\\admin\\source\\repos\\ExamProject\\ExamProject.API\\Services\\CategoryService.cs",
+              "RelativeDocumentMoniker": "ExamProject.API\\Services\\CategoryService.cs",
+              "ToolTip": "C:\\Users\\admin\\source\\repos\\ExamProject\\ExamProject.API\\Services\\CategoryService.cs",
+              "RelativeToolTip": "ExamProject.API\\Services\\CategoryService.cs",
+              "ViewState": "AQIAAAgAAAAAAAAAAAAUwCcAAAAFAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-15T14:03:56.396Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 36,
+              "Title": "ICategoryService.cs",
+              "DocumentMoniker": "C:\\Users\\admin\\source\\repos\\ExamProject\\ExamProject.API\\Services\\Interfaces\\ICategoryService.cs",
+              "RelativeDocumentMoniker": "ExamProject.API\\Services\\Interfaces\\ICategoryService.cs",
+              "ToolTip": "C:\\Users\\admin\\source\\repos\\ExamProject\\ExamProject.API\\Services\\Interfaces\\ICategoryService.cs",
+              "RelativeToolTip": "ExamProject.API\\Services\\Interfaces\\ICategoryService.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAADwvwoAAAApAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-15T14:01:04.289Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 37,
+              "Title": "IProductDescriptionRepository.cs",
+              "DocumentMoniker": "C:\\Users\\admin\\source\\repos\\ExamProject\\ExamProject.API\\Repositories\\Interfaces\\IProductDescriptionRepository.cs",
+              "RelativeDocumentMoniker": "ExamProject.API\\Repositories\\Interfaces\\IProductDescriptionRepository.cs",
+              "ToolTip": "C:\\Users\\admin\\source\\repos\\ExamProject\\ExamProject.API\\Repositories\\Interfaces\\IProductDescriptionRepository.cs",
+              "RelativeToolTip": "ExamProject.API\\Repositories\\Interfaces\\IProductDescriptionRepository.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAADwvwoAAAAzAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-15T13:45:34.405Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 38,
+              "Title": "IOrderDetailRepository.cs",
+              "DocumentMoniker": "C:\\Users\\admin\\source\\repos\\ExamProject\\ExamProject.API\\Repositories\\Interfaces\\IOrderDetailRepository.cs",
+              "RelativeDocumentMoniker": "ExamProject.API\\Repositories\\Interfaces\\IOrderDetailRepository.cs",
+              "ToolTip": "C:\\Users\\admin\\source\\repos\\ExamProject\\ExamProject.API\\Repositories\\Interfaces\\IOrderDetailRepository.cs",
+              "RelativeToolTip": "ExamProject.API\\Repositories\\Interfaces\\IOrderDetailRepository.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAADwvwoAAAAsAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-15T13:38:52.061Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 39,
+              "Title": "IOrderRepository.cs",
+              "DocumentMoniker": "C:\\Users\\admin\\source\\repos\\ExamProject\\ExamProject.API\\Repositories\\Interfaces\\IOrderRepository.cs",
+              "RelativeDocumentMoniker": "ExamProject.API\\Repositories\\Interfaces\\IOrderRepository.cs",
+              "ToolTip": "C:\\Users\\admin\\source\\repos\\ExamProject\\ExamProject.API\\Repositories\\Interfaces\\IOrderRepository.cs",
+              "RelativeToolTip": "ExamProject.API\\Repositories\\Interfaces\\IOrderRepository.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAADwvwoAAAAmAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-15T13:36:48.182Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 40,
+              "Title": "IUserRepository.cs",
+              "DocumentMoniker": "C:\\Users\\admin\\source\\repos\\ExamProject\\ExamProject.API\\Repositories\\Interfaces\\IUserRepository.cs",
+              "RelativeDocumentMoniker": "ExamProject.API\\Repositories\\Interfaces\\IUserRepository.cs",
+              "ToolTip": "C:\\Users\\admin\\source\\repos\\ExamProject\\ExamProject.API\\Repositories\\Interfaces\\IUserRepository.cs",
+              "RelativeToolTip": "ExamProject.API\\Repositories\\Interfaces\\IUserRepository.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAADwvwoAAAAlAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-15T13:25:19.814Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 41,
+              "Title": "ICategoryRepository.cs",
+              "DocumentMoniker": "C:\\Users\\admin\\source\\repos\\ExamProject\\ExamProject.API\\Repositories\\Interfaces\\ICategoryRepository.cs",
+              "RelativeDocumentMoniker": "ExamProject.API\\Repositories\\Interfaces\\ICategoryRepository.cs",
+              "ToolTip": "C:\\Users\\admin\\source\\repos\\ExamProject\\ExamProject.API\\Repositories\\Interfaces\\ICategoryRepository.cs",
+              "RelativeToolTip": "ExamProject.API\\Repositories\\Interfaces\\ICategoryRepository.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAADwvwoAAAApAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-15T13:17:07.365Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
